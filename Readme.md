@@ -63,6 +63,7 @@ Most symbols are on this layer. The rest is distributed in other layers.
 Especially all braces.
 
 Numbers are sorted by frequency, lower numbers are more frequent than lower numbers.
+Symbols (some at least) are more frequent than numbers, so put these on home row.
 
 ![alt text](resources/keyboard-layout-Num.png)
 
