@@ -18,22 +18,16 @@ Use [home-row-mods](https://precondition.github.io/home-row-mods#gacs)
 ![alt text](resources/keyboard-layout-HomeRowMods.png)
 
 ## Layer Change Keys
-Hold RH1 or LH1 for Numbers layer 
-Hold LH0 for Navigation layer
-Hold RH0 for Symbols layer
-Hold m or v for Umlaut Layer
-Hold (LH0 and RH0) for function Layer
-
+* Hold RH1 or LH1 for Numbers Layer 
+* Hold LH0 for Navigation Layer
+* Hold RH0 for Symbols Layer
+* Hold m or v for Umlaut Layer
+* Hold (LH0 and RH0) for function Layer
+* Hold h for Braces Layer
 
 On all layers except from 0, the free thumb keys do not trigger a layer change, they do the same thing as on the base layer, but with enabled repeat. That way these layer change keys can be repeated.
 
-## Base Layer
-qwerty
-
-LH1 tab, LH0 enter, RH0 space, RH1 backspace 
-![alt text](resources/keyboard-layout-Base.png)
-
-### Combos
+## Combos
 * j+k Backspace
 * d+f Escape
 * f+j Capsword
@@ -42,6 +36,15 @@ LH1 tab, LH0 enter, RH0 space, RH1 backspace
 * a+; Super tap (same as home row mods, instead of hold)
 
 ![alt text](resources/keyboard-layout-Combos.png)
+
+## Base Layer
+qwerty
+
+LH1 tab, LH0 enter, RH0 space, RH1 backspace 
+![alt text](resources/keyboard-layout-Base.png)
+
+Here all other layers start.
+
 ## Umlaut Layer (hold v or m)
 each umlaut on it's laut.
 Euro and Dollar are on the umlaut layer.
@@ -55,7 +58,7 @@ If possible iso keyboard keys or combos are mapped to their vi counterpart, so t
 
 ![alt text](resources/keyboard-layout-Nav.png)
 
-## Numbers and Symbols (hold RH1)
+## Numbers and Symbols (hold RH1 or LH1)
 Most symbols are on this layer. The rest is distributed in other layers.
 Especially all braces.
 
@@ -70,6 +73,6 @@ Closing braces are mostly written by the editor, so we only have to type the ope
 
 ![alt text](resources/keyboard-layout-Brace.png)
 ## Function Keys Layer (hold RH0 and LH0)
-Here are all function keys plus media keys plus bluetooth switches.
+Here are all function keys plus media keys plus bluetooth switches. The function keys follow the number keys.
 
 ![alt text](resources/keyboard-layout-Function.png)
