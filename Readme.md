@@ -47,7 +47,7 @@ Here all other layers start.
 
 ## Umlaut Layer (hold v or m)
 each umlaut on it's laut.
-Euro and Dollar are on the umlaut layer.
+Euro, Dollar and @ are on the umlaut layer.
 ![alt text](resources/keyboard-layout-Umlaute.png)
 
 ## Navigation layer (hold LH0)
