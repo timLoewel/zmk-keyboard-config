@@ -4,7 +4,7 @@
 To edit the keyboard, edit the ./config/cradio.keymap
 
 With each push to the repository a new firmware is built via the .github workflow. 
-Then attach one halve to the computer via usb. Set it into usb mode by [double click on the reset button](https://zmk.dev/docs/user-setup#flashing-uf2-files).
+Then attach one halve to the computer via usb. Set it into usb mode by [double click on the reset button](https://zmk.dev/docs/user-setup#flashing-uf2-files). Copy the right firmeware to each halve. It does not have to be renamed. When the file is copied, the usb-drive automatically disconnects and the firmware is enabled.
 
 ## General Thoughts
 All keys in this document are named by the default qwerty character on the key. 
