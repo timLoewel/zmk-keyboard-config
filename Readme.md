@@ -1,5 +1,11 @@
 # Keymap for 34 key keyboard
 ![alt text](resources/keyboard-layout-all-layers.png)
+
+To edit the keyboard, edit the ./config/cradio.keymap
+
+With each push to the repository a new firmware is built via the .github workflow. 
+Then attach one halve to the computer via usb. Set it into usb mode by [double click on the reset button](https://zmk.dev/docs/user-setup#flashing-uf2-files).
+
 ## General Thoughts
 All keys in this document are named by the default qwerty character on the key. 
 The thumb keys are named after this schema from [zmk-nodefree-config](https://github.com/urob/zmk-nodefree-config). This library is also used for defining the keymaps.
