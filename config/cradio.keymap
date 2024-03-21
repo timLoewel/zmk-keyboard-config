@@ -89,7 +89,7 @@ ZMK_LAYER(num_layer,
      // ╭───────────────┬───────────────┬───────────────┬───────────────┬────────────╮   ╭───────────────┬───────────────┬─────────────┬─────────────┬─────────────╮
           &kp N4          &kp N3          &kp N2          &kp N1          &kp N0           &kp N5          &kp N6          &kp N7        &kp N8        &kp N9
      // ├───────────────┼───────────────┼───────────────┼───────────────┼────────────┤   ├───────────────┼───────────────┼─────────────┼─────────────┼─────────────┤
-          &hrm LGUI EXCL &hrm LALT MINUS &hrm LCTRL PLUS &hrm LSHFT EQUAL &kp UNDER      &lt BRC APOS   &hrm RSHFT COLON &hrm LCTRL DQT &hrm LALT TILDE &hrm LGUI PRCNT
+          &hrm LGUI EXCL &hrm LALT MINUS &hrm LCTRL PLUS &hrm LSHFT EQUAL &kp UNDER       &lt BRC APOS     &hrm RSHFT COLON &hrm LCTRL DQT &hrm LALT TILDE &hrm LGUI PRCNT
      // ├───────────────┼───────────────┼───────────────┼───────────────┼────────────┤   ├───────────────┼───────────────┼─────────────┼─────────────┼─────────────┤
           ___            &kp SLASH       &kp STAR        &kp BSLH         &kp PIPE        &kp GRAVE      &kp AMPS         &kp HASH       &kp CARET     ___
      // ╰───────────────┼───────────────┼───────────────┼───────────────┼────────────┤   ├───────────────┼───────────────┼─────────────┼─────────────┼─────────────┤
@@ -113,9 +113,9 @@ ZMK_LAYER(function_layer,
      // ╭───────────────┬───────────────┬───────────────┬───────────────┬────────────╮   ╭───────────────┬───────────────┬─────────────┬─────────────┬─────────────╮
           &kp C_MUTE      &kp C_VOL_UP    &kp C_VOL_DN     ___            ___              &bt BT_SEL 0    &bt BT_SEL 1    &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4
      // ├───────────────┼───────────────┼───────────────┼───────────────┼────────────┤   ├───────────────┼───────────────┼─────────────┼─────────────┼─────────────┤
-          &hrm LGUI EXCL &hrm LALT MINUS &hrm LCTRL PLUS &hrm LSHFT EQUAL &kp UNDER        &lt BRC APOS   &hrm RSHFT COLON &hrm LCTRL DQT &hrm LALT TILDE &hrm LGUI PRCNT      &kp DOWN      &kp UP        &kp RIGHT     ___
+          &hrm LGUI F4   &hrm LALT F3    &hrm LCTRL F2    &hrm LSHIFT F1 &kp F10         &kp F5           &hrm RSHFT F6   &hrm LCTRL F7 &hrm LALT F8 &hrm LGUI F9
      // ├───────────────┼───────────────┼───────────────┼───────────────┼────────────┤   ├───────────────┼───────────────┼─────────────┼─────────────┼─────────────┤
-          ___            &kp SLASH       &kp START        &kp BSLH         &kp PIPE        &kp GRAVE      &kp AMPS         &kp HASH       &kp CARET     ___
+          ___             ___             &kp F12         &kp F11         ___              ___             ___             ___           ___           &kp PSCRN
      // ╰───────────────┼───────────────┼───────────────┼───────────────┼────────────┤   ├───────────────┼───────────────┼─────────────┼─────────────┼─────────────┤
                                                             ___           ___               ___           ___         
      //                                                 ╰───────────────┴────────────╯   ╰───────────────┴───────────────╯
