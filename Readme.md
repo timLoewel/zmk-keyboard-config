@@ -26,9 +26,8 @@ Use [home-row-mods](https://precondition.github.io/home-row-mods#gacs)
 ## Layer Change Keys
 * Hold RH1 or LH1 for Numbers Layer 
 * Hold LH0 for Navigation Layer
-* Hold RH0 for Symbols Layer
 * Hold m or v for Umlaut Layer
-* Hold (LH0 and RH0) for function Layer
+* Hold RH0 for function Layer
 * Hold h for Braces Layer
 
 On all layers except from 0, the free thumb keys do not trigger a layer change, they do the same thing as on the base layer, but with enabled repeat. That way these layer change keys can be repeated.
