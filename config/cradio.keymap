@@ -1,7 +1,9 @@
 #include <behaviors.dtsi>
 #include <dt-bindings/zmk/keys.h>
 #include <dt-bindings/zmk/bt.h>
-
+ 
+#define HOST_OS 1  // set to 1 for Linux, default is 0 (Windows) used in helper.h for defining compose key in unicode macro
+    
 #include "../zmk-nodefree-config/helper.h"
 #include "../zmk-nodefree-config/keypos_def/keypos_34keys.h"
 #include "../zmk-nodefree-config/international_chars/german.dtsi"
