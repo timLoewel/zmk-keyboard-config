@@ -38,12 +38,11 @@ On all layers except from 0, the free thumb keys do not trigger a layer change, 
 * f+j Capsword
 * k+l Enter
 * s+d Tab
-* a+; Super tap (same as home row mods, instead of hold)
 
 ![alt text](resources/keyboard-layout-Combos.png)
 
 ## Base Layer
-qwerty
+ortholinear qwerty
 
 LH1 tab, LH0 enter, RH0 space, RH1 backspace 
 ![alt text](resources/keyboard-layout-Base.png)
