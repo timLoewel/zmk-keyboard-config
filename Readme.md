@@ -12,6 +12,7 @@ Use key combos for common keys: Escape, Enter, Backspace,[CapsWord](https://zmk.
 
 ## Home Row Mods
 Use [home-row-mods](https://precondition.github.io/home-row-mods#gacs)
+
 ![alt text](resources/keyboard-layout-HomeRowMods.png)
 
 ## Layer Change Keys
@@ -48,7 +49,8 @@ Euro, Dollar and @ are on the umlaut layer.
 ![alt text](resources/keyboard-layout-Umlaute.png)
 
 ## Navigation layer (hold LH0)
-Navigation as in vi1
+Navigation as in vim
+
 TODO: Put Del on the RH1 in the Nav layer
 
 If possible iso keyboard keys or combos are mapped to their vi counterpart, so that the same keys can be pressed in vi normal mode and in keyboard navigation mode.
