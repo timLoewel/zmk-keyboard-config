@@ -49,7 +49,7 @@ Euro, Dollar and @ are on the umlaut layer.
 
 ## Navigation layer (hold LH0)
 Navigation as in vi1
-
+TODO: Put Del on the RH1 in the Nav layer
 
 If possible iso keyboard keys or combos are mapped to their vi counterpart, so that the same keys can be pressed in vi normal mode and in keyboard navigation mode.
 
