@@ -89,3 +89,10 @@ The thumb keys are named after this schema from [zmk-nodefree-config](https://gi
 ╰──────────╮  LH1 LH0 │ RH0 RH1  ╭──────────╯
            ╰──────────┴──────────╯
 ```
+## TODO
+home row mods with more delay, so they do not trigger during typing / role
+shift also onto right [thumb](https://forum.ultimatehackingkeyboard.com/t/miryoku-and-homerow-mods/723/21)
+asterisk and pipe onto symbols layer.
+make the backspace key (right thumb) repeat
+add/modify delete key
+put copy onto LT1, paste is on LB1
