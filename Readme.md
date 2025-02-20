@@ -51,7 +51,6 @@ Euro, Dollar and @ are on the umlaut layer.
 ## Navigation layer (hold LH0)
 Navigation as in vim
 
-TODO: Put Del on the RH1 in the Nav layer
 
 If possible iso keyboard keys or combos are mapped to their vi counterpart, so that the same keys can be pressed in vi normal mode and in keyboard navigation mode.
 
@@ -90,9 +89,12 @@ The thumb keys are named after this schema from [zmk-nodefree-config](https://gi
            ╰──────────┴──────────╯
 ```
 ## TODO
-home row mods with more delay, so they do not trigger during typing / role
-shift also onto right [thumb](https://forum.ultimatehackingkeyboard.com/t/miryoku-and-homerow-mods/723/21)
-asterisk and pipe onto symbols layer.
-make the backspace key (right thumb) repeat
-add/modify delete key
-put copy onto LT1, paste is on LB1
+* home row mods with more delay, so that they do not trigger during rapid typing / role
+* put shift onto RH1, remove the backspace and FUN layer functionality there
+* trigger the FUN layer via the combination of the two right thumb keys RH0 and RH1
+* put backspace on Nav layer RH0, del on Nav layer RH1
+* asterisk on symbols layer LT2 and pipe and ampersand onto symbols layer, use LT1, LT2 and LT3.
+* make the backspace and del key repeat
+* put colon from right thumb to RM4 on symbol layer
+* use ctrl+c, ctrl+x and ctrl+v for cut copy paste in nav mode on LM2, LB2 and LB0
+
